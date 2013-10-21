@@ -20,3 +20,5 @@ set guifont=Bitstream\ Vera\ Sans\ Mono:h18
 let mapleader=","
 
 map <silent> <leader>nt :NERDTreeToggle<CR>
+
+set number
